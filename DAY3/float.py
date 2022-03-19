@@ -11,7 +11,9 @@ print("END OF PROGRAME")
 print()
 ##########################################
 #exponential vaules 
-X_1=1.3*3*10
+X_1=1.3*10*10
 print("the value is:",X_1)
 print("the data type is:",type(X_1))
+
+
 

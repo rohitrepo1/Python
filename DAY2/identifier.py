@@ -1,10 +1,11 @@
 ##identifier is also  called variable used in the script###
-#rules for declating an identifier 
+#rules for declaring an identifier 
 #===================================#
 #1 only allowed character  are A-Z, a-z or 0-9
 #2 only special character  is allowed that is "_"
 #3 should not start from number or decimal numbers
 #4 there is no lenght limit  for variable
+#5 should not  start with reserved key words
 
 #Example1
 import time
