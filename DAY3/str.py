@@ -34,5 +34,10 @@ today is a good day to start learning python
 its easy to learn python with regular practise
        '''
 print(str8)
+
+str9="i will be a 'sofrware developer' after learning python"
+print(str9)
+print(type(str9))
+time.sleep(2)
 print("END OF EXAMPLE")
 
