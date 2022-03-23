@@ -7,7 +7,12 @@ str1="Learn Python"
 print(str1)
 print()
 print("type of data is:",type(str1))
-print("slice operator with positive index")
+print("===slice operator with positive index===")
 print(str1[1:])
 #############################################
 print(str1[:5])
+print("===slice operator with negtive Index===")
+str2="Test Python"
+print()
+print("---using the slice operator with Negative Index---")
+print(str2[-1:-3:-8])
