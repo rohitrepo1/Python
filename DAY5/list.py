@@ -5,4 +5,3 @@ print(Name)
 print(type(Name))
 print(Game)
 print(type(Game))
- 

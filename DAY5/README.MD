@@ -13,5 +13,4 @@
 >> duplicate object is allowed >> 
 >> hetrogenius object is allowed 
 >> list is a mutable object 
->> list is dynamic or gorable 
->> indexing and slice operator is applicable for list 
+

@@ -1,6 +1,6 @@
 #insertion
 import time
-test=eval(input("Enter the list:" ))
+test=eval(input("Enter the list: " ))
 print()
 print(test)
 print("the data type is:",type(test))
