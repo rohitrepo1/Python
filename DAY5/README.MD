@@ -13,5 +13,4 @@
 >> duplicate object is allowed >> 
 >> hetrogenius object is allowed 
 >> list is a mutable object 
->> list is dynamic or Growable using append(add object at a time) and  remove(remove an object at a time) function 
->> indexing and slice operator is applicable for list 
+
