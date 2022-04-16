@@ -1,0 +1,1 @@
+| inner function | pythong support inner function , it is declared  inside a function | 
